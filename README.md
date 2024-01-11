@@ -59,7 +59,7 @@ The core of the translation functionality is powered by Azure AI Translator serv
 service employs advanced natural language processing algorithms to provide accurate 
 and contextually relevant translations across a wide array of languages. Azure AI Translator Service is the engine behind the Movie Recommender System app language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.
 
-![Resourcevisualizer](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/9ddf5d53-605f-4b6d-a696-41da032a18b3)
+![translator](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/56f02851-7e0c-4959-b81f-440144531545)
 
 
 ## Working Live Project Display
