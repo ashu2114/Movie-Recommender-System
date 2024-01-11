@@ -3,9 +3,9 @@
 ## Project Title: Movie Recommender System
 
 ## Project Details
-Project Video Drive URL: 
-Project Documentation Drive URL:
-Project URL: https://movie-recommender-system-cqfzogvk7mbhyeg65tgh8z.streamlit.app/
+- Project Video Drive URL: 
+- Project Documentation Drive URL:
+- Project URL: https://movie-recommender-system-cqfzogvk7mbhyeg65tgh8z.streamlit.app/
 
 ## Problem Statement: 
 In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. Users face difficulties exploring movies due to language barriers, limiting their ability to discover content in languages other than their native tongue. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records. 
