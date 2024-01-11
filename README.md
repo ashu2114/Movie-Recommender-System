@@ -1,4 +1,4 @@
-Microsoft-Future-Ready-Talent-Virtual-InternshipProject
+Microsoft-Future-Ready-Talent-Virtual-Internship-Project
 
 Project Title: Movie Recommender System
 
@@ -36,8 +36,10 @@ Train machine learning models using historical data for optimal performance.
 Azure Services Used:
 
 • Azure Core Services
+
 1. Azure Virtual Machine:
- Azure Virtual Machines (VMs) are on-demand, scalable computing 
+ 
+Azure Virtual Machines (VMs) are on-demand, scalable computing 
 resources provided by Microsoft Azure. They enable you to run virtualized 
 Windows or Linux servers in the cloud. Here are some key points about Azure 
 Virtual Machines
@@ -47,6 +49,7 @@ Virtual Machines
 
 
 2. Azure Monitor CPU Alert:
+
 Creating a CPU usage alert in Azure Monitor involves several steps. Azure Monitor 
 allows you to set up alerts based on various metrics, including CPU usage. Below is a 
 general guide on how to create a CPU usage alert using Azure Monitor:
@@ -79,5 +82,6 @@ Future Enhancements:
 • Integration of real-time user feedback for immediate system adaptation.
 • Exploration of deep learning models for even more accurate predictions.
 • User interface improvements for a seamless and engaging experience.
+
 Contact
 For questions or suggestions, please contact [vishwakarmaashwini2105@gmail.com]
