@@ -9,33 +9,29 @@ user data and movie attributes to generate tailored recommendations that align w
 individual tastes.
 
 ### Key Features :
-• Collaborative filtering 
-• Content based filtering
-• Machine Learning Algorithms
-• Context Awareness
+- Collaborative filtering 
+- Content based filtering
+- Machine Learning Algorithms
+- Context Awareness
 
 ### Prerequisites:
-• Azure Subscription:
-• Make sure you have an active Azure subscription.
-• Azure Virtual Machine:
-• Ensure that you have a virtual machine (VM) or another resource for 
+- Azure Subscription: Make sure you have an active Azure subscription.
+- Azure Virtual Machine: Ensure that you have a virtual machine (VM) or another resource for 
 which you want to monitor CPU usage.
 
 ### Setup:
-• Dependencies:
-Ensure required libraries and frameworks are installed.
+- Dependencies: Ensure required libraries and frameworks are installed.
  Include translation API keys for language support.
  
-• Configuration:
-Adjust system parameters, collaborative filtering weights, and translation settings 
+- Configuration: Adjust system parameters, collaborative filtering weights, and translation settings 
 in the configuration file.
 
-• Training:
-Train machine learning models using historical data for optimal performance.
+- Training: Train machine learning models using historical data for optimal performance.
  Set up translation model if applicable
-Azure Services Used:
 
-### Azure Core Services
+### Azure Services Used:
+
+### 1. Azure Core Services
 
 ### 1. Azure Virtual Machine:
  
@@ -55,7 +51,7 @@ general guide on how to create a CPU usage alert using Azure Monitor:
 
 ![WhatsApp Image 2024-01-11 at 1 10 34 PM (3)](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/a8bd6358-53b4-413a-81db-711cc9d9b569)
 
-### Azure AI Service
+### 2. Azure AI Service
 
 ### Azure AI Translator Service :
 The core of the translation functionality is powered by Azure AI Translator service. This 
