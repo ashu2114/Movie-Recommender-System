@@ -50,7 +50,7 @@ Creating a CPU usage alert in Azure Monitor involves several steps. Azure Monito
 allows you to set up alerts based on various metrics, including CPU usage. Below is a 
 general guide on how to create a CPU usage alert using Azure Monitor:
 
-![WhatsApp Image 2024-01-11 at 1 10 34 PM (3)](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/a8bd6358-53b4-413a-81db-711cc9d9b569)
+![VM3](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/783e00df-fa7f-4e30-a9fc-939f4a326289)
 
 ### Azure AI Service
 
