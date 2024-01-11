@@ -2,11 +2,15 @@
 
 ### Project Title: Movie Recommender System
 
+### Problem Statement: 
+In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records. 
+
 ### Project Description:
 This project aims to develop a movie recommendation system using soft computing 
 techniques, specifically artificial intelligence and machine learning. The system analyzes 
 user data and movie attributes to generate tailored recommendations that align with 
-individual tastes.
+individual tastes. This system leverages the power of Azure AI Translator Services to not only provide personalized movie recommendations but also facilitate seamless cross-language interactions for a truly global audience. It aims to create an immersive and user-friendly platform that transcends language barriers. By seamlessly integrating language translation and personalized recommendations, this app aims to bring users closer to a diverse world of cinema, transcending linguistic boundaries and fostering a global community of movie enthusiasts.
+
 
 ### Key Features :
 - Collaborative filtering 
@@ -77,9 +81,9 @@ and contextually relevant translations across a wide array of languages.
 
 
 ### Future Enhancements:
-• Integration of real-time user feedback for immediate system adaptation.
-• Exploration of deep learning models for even more accurate predictions.
-• User interface improvements for a seamless and engaging experience.
+- Integration of real-time user feedback for immediate system adaptation.
+- Exploration of deep learning models for even more accurate predictions.
+- User interface improvements for a seamless and engaging experience.
 
 
 ### Contact:
