@@ -69,8 +69,7 @@ Working Live Project Display
 
 ![app1](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/62b50cd7-8aea-46df-91f1-95de4867304e)
 
-
-![tra](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/34982a00-5509-4b5d-aee5-0b9fcb047adb)
+![app2](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/aaf08cdc-1556-4f07-bb10-d4ce3cb55903)
 
 
 Resource Visualizer:
