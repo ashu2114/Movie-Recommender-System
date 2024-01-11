@@ -68,6 +68,7 @@ and contextually relevant translations across a wide array of languages.
 Working Live Project Display
 
 ![rec](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/2f47238f-3252-42ae-a0a9-c0bf0a41afbd)
+![app1](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/62b50cd7-8aea-46df-91f1-95de4867304e)
 
 
 ![tra](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/34982a00-5509-4b5d-aee5-0b9fcb047adb)
