@@ -1,7 +1,6 @@
 ###  Microsoft-Future-Ready-Talent-Virtual-Internship-Project
 
-### Project Title: 
-### Movie Recommender System
+### Project Title: Movie Recommender System
 
 ### Project Description:
 This project aims to develop a movie recommendation system using soft computing 
@@ -48,7 +47,6 @@ Virtual Machines
 ![WhatsApp Image 2024-01-11 at 1 10 34 PM (4)](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/8d3325d3-9be7-4a64-8521-7e64e1cb549b)
 
 
-
 ### 2. Azure Monitor CPU Alert:
 
 Creating a CPU usage alert in Azure Monitor involves several steps. Azure Monitor 
@@ -59,14 +57,15 @@ general guide on how to create a CPU usage alert using Azure Monitor:
 
 ### Azure AI Service
 
-Azure AI Translator Service :
+### Azure AI Translator Service :
 The core of the translation functionality is powered by Azure AI Translator service. This 
 service employs advanced natural language processing algorithms to provide accurate 
 and contextually relevant translations across a wide array of languages.
 
 ![WhatsApp Image 2024-01-11 at 1 10 34 PM (2)](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/b2405fcf-2d34-4e64-bd35-f10ac9027160)
 
-Working Live Project Display
+
+### Working Live Project Display
 
 
 ![app1](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/62b50cd7-8aea-46df-91f1-95de4867304e)
@@ -75,18 +74,17 @@ Working Live Project Display
 ![app2](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/aaf08cdc-1556-4f07-bb10-d4ce3cb55903)
 
 
-Resource Visualizer:
+### Resource Visualizer:
 
 
 ![WhatsApp Image 2024-01-11 at 1 55 28 PM](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/4caa3752-2e3a-4620-894c-137951d821fb)
 
 
-Future Enhancements:
+### Future Enhancements:
 • Integration of real-time user feedback for immediate system adaptation.
 • Exploration of deep learning models for even more accurate predictions.
 • User interface improvements for a seamless and engaging experience.
 
 
-Contact:
-
-For questions or suggestions, please contact [vishwakarmaashwini2105@gmail.com]
+### Contact:
+- For questions or suggestions, please contact [vishwakarmaashwini2105@gmail.com]
