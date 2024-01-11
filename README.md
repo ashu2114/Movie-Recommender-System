@@ -65,7 +65,7 @@ and contextually relevant translations across a wide array of languages.
 ![WhatsApp Image 2024-01-11 at 1 10 34 PM (2)](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/b2405fcf-2d34-4e64-bd35-f10ac9027160)
 
 
-### - Working Live Project Display
+### Working Live Project Display
 
 
 1 ![app1](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/62b50cd7-8aea-46df-91f1-95de4867304e)
@@ -74,7 +74,7 @@ and contextually relevant translations across a wide array of languages.
 2 ![app2](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/aaf08cdc-1556-4f07-bb10-d4ce3cb55903)
 
 
-### - Resource Visualizer:
+### Resource Visualizer:
 
 
 ![WhatsApp Image 2024-01-11 at 1 55 28 PM](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/4caa3752-2e3a-4620-894c-137951d821fb)
