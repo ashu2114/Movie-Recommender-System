@@ -41,7 +41,7 @@ resources provided by Microsoft Azure. They enable you to run virtualized
 Windows or Linux servers in the cloud. Here are some key points about Azure 
 Virtual Machines
 
-![WhatsApp Image 2024-01-11 at 1 10 34 PM (4)](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/8d3325d3-9be7-4a64-8521-7e64e1cb549b)
+![VM1](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/04669590-8150-42a6-a120-bc4c32a933ab)
 
 
 ### 2. Azure Monitor CPU Alert:
