@@ -4,7 +4,7 @@
 
 ## Project Details
 - Project Video Drive URL: 
-- Project Documentation Drive URL:
+- Project Documentation Drive URL: https://drive.google.com/drive/folders/1l7lqWzSpmmEIbRvWScbI4zfvckJvfFWA?usp=sharing
 - Project URL: https://movie-recommender-system-cqfzogvk7mbhyeg65tgh8z.streamlit.app/
 
 ## Problem Statement: 
