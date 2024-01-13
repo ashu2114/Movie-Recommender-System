@@ -3,7 +3,7 @@
 ## Project Title: Movie Recommender System
 
 ## Project Details
-- Project Video Drive URL: 
+- Project Video Drive URL: https://drive.google.com/drive/folders/1Sid5SIqGxD0GAstIR3UjF37Lar3M6y6h?usp=sharing
 - Project Documentation Drive URL: https://drive.google.com/drive/folders/1l7lqWzSpmmEIbRvWScbI4zfvckJvfFWA?usp=sharing
 - Project URL: https://movie-recommender-system-cqfzogvk7mbhyeg65tgh8z.streamlit.app/
 
