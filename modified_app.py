@@ -13,9 +13,9 @@ def translate_text(text, target_language='en'):
         return text
     import requests, uuid
 
-    resource_key = 'a84f9c5a989844c49be457da9198aad1'
+    resource_key = 'a607110a266144ab8273765b7d58541d'
 
-    region = 'centralindia'
+    region = 'eastus'
 
     endpoint = 'https://api.cognitive.microsofttranslator.com/'
 
