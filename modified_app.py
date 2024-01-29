@@ -71,7 +71,7 @@ if 'target_language' not in st.session_state:
     st.session_state["Creator"] = 'Magicbus Team' #Can Insert your name here
 
 
-st.title(translate_text('Movie Recommender System',st.session_state['target_language']))
+st.title(translate_text('Movie Recommendendation System',st.session_state['target_language']))
 
 selected_movie_name = st.selectbox(
     translate_text('Suggest me a movie: ',st.session_state['target_language']),
